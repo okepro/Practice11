@@ -1,0 +1,39 @@
+body {
+    background: gainsboro;
+    text-align: center;
+}
+.tooltip {
+    position: fixed;
+    padding: 10px 20px;
+    text-align: center;
+}
+
+.form_emp label{
+    font-size: 200%;
+}
+.form_emp input {
+    background: cornsilk;
+}
+.form_all_emp input {
+    background: cornsilk;
+    font-size: 150%;
+}
+.new_emp a{
+    font-size: 150%;
+    border: 3px solid black;
+    background: cornsilk;
+}
+.emp_table {
+    border: 3px solid black;
+    border-collapse: collapse;
+    margin: auto;
+}
+.emp_table caption {
+    font-size: 120%;
+}
+.emp_table th {
+    border: 3px solid red;
+}
+.emp_table td {
+    text-align: left;
+}
